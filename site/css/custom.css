@@ -1,0 +1,22 @@
+body {
+    font-family: 'Special Elite', cursive;
+}
+h1, h2, h3, h4, p {
+    font-family: 'Special Elite', cursive;
+}
+hr.special {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr.special:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Spisiak and Reagan 2016</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/custom.css">
+    
+    <!-- <link rel="stylesheet" href="../assets/css/custom.min.css"> -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="../bower_components/html5shiv/dist/html5shiv.js"></script>
+        <script src="../bower_components/respond/dest/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="http://reagiak.com" class="navbar-brand">Spisiak and Reagan 2016</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#about">Sam and Andy</a></li>
+	    <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Friday <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="themes">
+                <li><a href="#accommodations">Accommodations</a></li>
+                <li><a href="#crawl">Pub Crawl</a></li>
+              </ul>
+            </li>
+	    <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Saturday <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="themes">
+                <li><a href="#sights">Around town</a></li>
+                <li><a href="#ceremony">Ceremony</a></li>
+                <li><a href="#reception">Reception</a></li>
+              </ul>
+            </li>
+            <!-- <li> -->
+            <!--   <a href="#brunch">Brunch</a> -->
+            <!-- </li> -->
+            <li>
+              <a href="#registry">Registry</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container" style="position: relative;">
+      <div id="about">
+        <div class="row text-center" style="padding-top: 60px;">
+	  <h1>Samantha</h1>
+          <h1>Spisiak</h1>
+	  <h1>&</h1>
+	  <h1>Andrew</h1>
+	  <h1>Reagan</h1>
+	  <br>
+	</div>
+	<div class="row text-center">
+	  <div class="col-md-offset-3 col-md-6 col-xs-12">
+          <img class="center-block img-responsive img-rounded" src="images/IMG_3051-400.JPG" />
+	  </div>
+	</div>
+	<div class="row text-center">
+	  <br>
+          <h4>#reagiak2016</h4>
+        </div>
+      </div>
+      <hr class="special"></hr>
+      <div id="accommodations">
+        <div class="row text-center" style="padding-top: 60px;">
+          <!-- <h1>Accommodations</h1> -->
+	  <div class="col-md-offset-3 col-md-6 col-xs-12">
+            <img class="center-block img-responsive" src="images/accomodations.png">
+            <h4>Green Mountain Suites: <a href="http://www.greenmountainsuites.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Green+Mountain+Suites/@44.4583204,-73.1822518,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xdca1cf97d0afc5c5!8m2!3d44.4583204!4d-73.1800631" target="_blank">[google maps]</a></h4>
+            <h4>La Quinta: <a href="http://www.laquintasouthburlington.com/?cid=local_google_2036" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/La+Quinta+Inn+%26+Suites/@44.4667092,-73.1753316,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xbda21e0c2bf2b8e1!8m2!3d44.4667092!4d-73.1731429" target="_blank">[google maps]</a></h4>
+          </div>	  
+        </div>                  
+      </div>
+      <hr class="special"></hr>
+      <div id="crawl">
+        <div class="row text-center" style="padding-top: 60px;">
+          <h1>Friday night</h1>
+	  <div class="col-md-offset-3 col-md-6 col-xs-12">
+            <img src="images/pub-crawl.png" class="img-responsive">
+            <h4>Magic Hat: <a href="http://www.magichat.net/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Magic+Hat+Brewing+Co/@44.4289699,-73.2156002,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xe54dc4c8feb0f6a!8m2!3d44.4289699!4d-73.2134115" target="_blank">[google maps]</a></h4>
+            <h4>Switchback: <a href="http://switchbackvt.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Switchback+Brewing+Co/@44.4562154,-73.2229184,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x62b37e2b566a6568!8m2!3d44.4562154!4d-73.2207297" target="_blank">[google maps]</a></h4>
+            <h4>Queen City Brewery: <a href="http://www.queencitybrewery.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Queen+City+Brewery/@44.4596179,-73.2170319,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xece355ecd5da362a!8m2!3d44.4596179!4d-73.2148432" target="_blank">[google maps]</a></h4>
+            <h4>Zero Gravity: <a href="http://www.zerogravitybeer.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Zero+Gravity+Craft+Brewery/@44.459621,-73.2159917,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xf3cf73ebf1deff3b!8m2!3d44.459621!4d-73.213803" target="_blank">[google maps]</a></h4>
+            <h4>Citizen Cider: <a href="http://www.citizencider.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Citizen+Cider/@44.4707225,-73.2164709,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9ca9291a1a90aba!8m2!3d44.4707225!4d-73.2142822" target="_blank">[google maps]</a></h4>
+            <h4>Farmhouse Tap & Grill: <a href="http://www.farmhousetg.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/The+Farmhouse+Tap+%26+Grill/@44.4783668,-73.2154833,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x61940ab7695123d9!8m2!3d44.4783668!4d-73.2132946" target="_blank">[google maps]</a></h4>
+          </div>
+        </div>
+      </div>
+      <hr class="special"></hr>
+      <div id="sights">
+        <div class="row text-center" style="padding-top: 20px;">
+          <h1>Around town (Saturday morning)</h1>
+          <div class="col-md-offset-3 col-md-6 col-xs-12 text-center">
+            <h3>We hope you all will have a change to explore the Burlington Waterfront, <a href="http://www.churchstmarketplace.com/" target="_blank">Church Street</a>, and maybe even check out your favorite breweries from the night before.</h3>
+            <!-- <a href="" target="_blank"></a> -->
+            <h3>We particularly recommend <a href="http://www.pennycluse.com/" target="_blank">Penny Cluse</a> and <a href="http://www.magnoliabistro.com/" target="_blank">Magnolias</a> for an incredible breakfast in town, and <a href="http://www.onyxtonics.com/" target="_blank">Onyx Tonics</a> and <a href="https://www.facebook.com/maglianerocafe/" target="_blank">Maglianeros</a> for a cup of coffee. Also swing over to <a href="http://www.shelburneorchards.com/" target="_blank">Shelburne Orchards</a>, where Sam and I were engaged :)</h3>
+            <h3>For kids (and adults) too, check out the <a href="http://www.shelburnefarms.org/" target="_blank">Shelburne Farms</a>, <a href="http://www.echovermont.org/" target="_blank">Echo Science Center</a>, <a href="http://www.vermontteddybear.com/come-visit-us" target="_blank">Vermont Teddy Bear</a>, and even swing by the <a href="http://www.benjerry.com/about-us/factory-tours" target="_blank">Ben and Jerry's factory</a>.</h3>
+            <h3>But don't just take it from us, also check out: <a href="http://www.nytimes.com/2015/08/23/travel/what-to-do-in-36-hours-in-burlington-vermont.html" target="_blank">New York Times: 36 Hours in Burlington, Vt.</a></h3>
+          </div>
+        </div>
+      </div>
+      <hr class="special"></hr>
+      <div id="ceremony">
+        <div class="row text-center" style="padding-top: 20px;">
+          <h1>Ceremony and Reception</h1>
+          <br>
+	  <div class="col-md-offset-3 col-md-6 col-xs-12">
+            <img src="images/invites.png" class="img-responsive">
+          </div>
+          <br>
+          <div class="col-md-offset-3 col-md-6 col-xs-12 text-center">
+            <h3>Round Church: <a href="http://www.oldroundchurch.com/index.php/home" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/Old+Round+Church/@44.3992125,-73.0010907,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb586aba12204d3:0x46a1ca897fd41440!8m2!3d44.3992087!4d-72.998902" target="_blank">[google maps]</a></h3>
+            <h3>Mansfield Barn: <a href="http://mansfieldbarn.com/" target="_blank">[website]</a> <a href="https://www.google.com/maps/place/The+Mansfield+Barn/@44.5116748,-72.9559387,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb589183eb2d02d:0xb3e6fd5aed8886ee!8m2!3d44.511671!4d-72.95375" target="_blank">[google maps]</a></h3>
+            <h3>Direction between them: <a href="https://www.google.com/maps/dir/Old+Round+Church,+Richmond,+VT+05477/The+Mansfield+Barn,+Jericho,+VT/@44.4552363,-73.0531692,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4cb586aba12204d3:0x46a1ca897fd41440!2m2!1d-72.998902!2d44.3992087!1m5!1m1!1s0x4cb589183eb2d02d:0xb3e6fd5aed8886ee!2m2!1d-72.95375!2d44.511671" target="_blank">[google maps]</a></h3>
+          </div>            
+        </div>
+      </div>
+      <!-- <hr class="special"></hr> -->
+      <!-- <div id="reception"> -->
+      <!--   <div class="row text-center" style="padding-top: 60px;"> -->
+      <!--     <h1>Reception</h1> -->
+      <!--   </div> -->
+      <!-- </div> -->
+      <!-- <hr class="special"></hr> -->
+      <!-- <div id="brunch"> -->
+      <!--   <div class="row text-center" style="padding-top: 60px;"> -->
+      <!--     <h1>Bagel Brunch</h1> -->
+      <!--     <p>Details coming soon</p> -->
+      <!--   </div> -->
+      <!-- </div> -->
+      <hr class="special"></hr>
+      <div id="registry">
+        <div class="row text-center" style="padding-top: 10px;">
+          <h1>Registry</h1>
+          <div class="col-md-offset-3 col-md-6 col-xs-12">
+            <a href="https://www.amazon.com/wedding/andy-reagan-samantha-spisiak-burlington-october-2016/registry/3KT91W0T9VDA9" target="_blank"><img src="images/registry.png" class="img-responsive"></a>
+        </div>
+      </div>
+        <hr class="special"></hr>
+            <div id="registry">
+        <div class="row text-center" style="padding-top: 10px;">
+          <p>Everything on one big <a href="https://drive.google.com/open?id=1-r2zyrTxxp6BF4bmncVHXYdKmMI&usp=sharing" target="_blank">Google Map</a>.
+            <br>
+            <br>
+            <!-- <p>Website brought to you by a Andy Reagan. Sam did everything else :)</p> -->
+        </div>
+      </div>
+
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- <script src="js/custom.js"></script> -->
+    <script>
+      $(document).ready(function(){
+      // Add scrollspy to <body>
+        $('body').scrollspy({target: "#navbar-main", offset: 60});   
+
+        // Add smooth scrolling on all links inside the navbar
+        $("#navbar-main a").on('click', function(event) {
+
+        // Prevent default anchor click behavior
+        event.preventDefault();
+
+        // Store hash
+        var hash = this.hash;
+
+        // Using jQuery's animate() method to add smooth page scroll
+        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+        $('html, body').animate({
+        scrollTop: $(hash).offset().top
+        }, 800, function(){
+        
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+        });
+        });
+        });
+    </script>
+  </body>
+</html>
